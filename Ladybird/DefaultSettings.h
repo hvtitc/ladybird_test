@@ -51,39 +51,6 @@ http://xemiptv.hanzoitc.uk/rtp/232.84.3.68:11644
 http://xemiptv.hanzoitc.uk/rtp/232.84.3.218:11230
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí (HD 8Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.3.78:11584
-#------------------------VTC------------------------#
-#EXTINF:75 tvg-name="VTC1" group-title="VTC" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1 HD (HD 8.5Mbps)
-http://xemiptv.hanzoitc.uk/rtp/232.84.2.173:10846
-#EXTINF:0 tvg-id="vtc2" group-title="VTC" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
-http://xemiptv.hanzoitc.uk/rtp/232.84.1.57:8322
-#EXTINF:83 tvg-name="VTC3" group-title="VTC" tvg-logo="https://imgur.com/vemNwkI.png",VTC3 HD (HD 8.5Mbps)
-http://xemiptv.hanzoitc.uk/rtp/232.84.1.81:8460
-#EXTINF:186 tvg-name="VTC4" group-title="VTC" tvg-logo="https://imgur.com/0dkRtxJ.png",VTC4 HD (HD 8.5Mbps)
-http://xemiptv.hanzoitc.uk/rtp/232.84.2.149:10714
-#EXTINF:187 tvg-name="VTC5" group-title="VTC" tvg-logo="https://imgur.com/IDkKiEa.png",VTC5 HD (HD 8.5Mbps)
-http://xemiptv.hanzoitc.uk/rtp/232.84.3.136:10720
-#EXTINF:0 tvg-id="vtc6hd" group-title="VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6
-http://xemiptv.hanzoitc.uk/rtp/232.84.1.58:8328
-#EXTINF:188 tvg-name="VTC7" group-title="VTC" tvg-logo="https://imgur.com/sDWf2Q1.png",VTC7 HD (HD 8.5Mbps)
-http://xemiptv.hanzoitc.uk/rtp/232.84.2.151:10726
-#EXTINF:0 tvg-id="vtc8" group-title="VTC" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8
-http://xemiptv.hanzoitc.uk/rtp/232.84.2.39:10642
-#EXTINF:189 tvg-name="VTC9" group-title="VTC" tvg-logo="https://imgur.com/QuXPUqi.png",VTC9 HD (HD 8.5Mbps)
-http://xemiptv.hanzoitc.uk/rtp/232.84.3.141:10732
-#EXTINF:116 tvg-name="VTC10" group-title="VTC" tvg-logo="https://imgur.com/F6x7ZNA.png",VTC10 HD (HD 8.5Mbps)
-http://xemiptv.hanzoitc.uk/rtp/232.84.3.87:11530
-#EXTINF:0 tvg-id="vtc11" group-title="VTC" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
-http://xemiptv.hanzoitc.uk/rtp/232.84.1.61:8340
-#EXTINF:0 tvg-id="vtc12dhd" group-title="VTC" tvg-logo="https://i.imgur.com/YawrTlw.png",VTC12
-http://xemiptv.hanzoitc.uk/rtp/232.84.3.193:11080
-#EXTINF:78 tvg-name="VTC13" group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC13 HD (HD 8.5Mbps)
-http://xemiptv.hanzoitc.uk/rtp/232.84.1.74:8418
-#EXTINF:207 tvg-name="VTC14" group-title="VTC" tvg-logo="https://imgur.com/jlvmYDY.png",VTC14 HD (HD 8.5Mbps)
-http://xemiptv.hanzoitc.uk/rtp/232.84.3.216:11218
-#EXTINF:206 tvg-name="VTC16" group-title="VTC" tvg-logo="https://imgur.com/2RRt2M4.png",VTC16 HD (HD 8.5Mbps)
-http://xemiptv.hanzoitc.uk/rtp/232.84.3.98:11458
-#EXTINF:90 tvg-name="VOVTV" group-title="VTC" tvg-logo="https://i.imgur.com/MGLFyKb.png",VOV TV
-http://xemiptv.hanzoitc.uk/rtp/232.84.1.46:8256
 #------------------------HTV/HTVC------------------------#
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 (HD 6Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.3.57:11710
