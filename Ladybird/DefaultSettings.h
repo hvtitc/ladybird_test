@@ -1,22 +1,22 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #------------------------VTV------------------------#
-#EXTINF:1 tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://i.imgur.com/6047gMa.jpg",VTV1 (HD 8.5Mbps)
+#EXTINF:1 tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8.5Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.1.117:10254
-#EXTINF:2 tvg-name="VTV2 HD" group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 (HD 8.5Mbps)
+#EXTINF:2 tvg-name="VTV2 HD" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 8.5Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.2.31:10594
-#EXTINF:3 tvg-name="VTV3 HD" group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 (HD 8.5Mbps)
+#EXTINF:3 tvg-name="VTV3 HD" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 8.5Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.1.118:10260
-#EXTINF:4 tvg-name="VTV4 HD" group-title="VTV" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 (HD 8.5Mbps)
+#EXTINF:4 tvg-name="VTV4 HD" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 8.5Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.2.32:10600
-#EXTINF:5 tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://i.imgur.com/d3dvKNa.jpg",VTV5 (HD 8.5Mbps)
+#EXTINF:5 tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8.5Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.2.33:10606
-#EXTINF:6 tvg-name="VTV Cần Thơ HD" group-title="VTV" tvg-logo="https://i.imgur.com/ATJwYik.jpg",VTV Cần Thơ (HD 8.5Mbps)
+#EXTINF:6 tvg-name="VTV Cần Thơ HD" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8.5Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.1.119:10266
-#EXTINF:9 tvg-name="VTV7 HD" group-title="VTV" tvg-logo="https://i.imgur.com/qW0MBMH.jpg",VTV7 (HD 8.5Mbps)
+#EXTINF:9 tvg-name="VTV7 HD" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8.5Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.2.202:10996
-#EXTINF:68 tvg-name="VTV8 HD" group-title="VTV" tvg-logo="https://i.imgur.com/7pgnEzG.jpg",VTV8 (HD 8.5Mbps)
+#EXTINF:68 tvg-name="VTV8 HD" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8.5Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.2.34:10612
-#EXTINF:69 tvg-name="VTV9 HD" group-title="VTV" tvg-logo="https://i.imgur.com/9mL8Ve0.jpg",VTV9 (HD 8.5Mbps)
+#EXTINF:69 tvg-name="VTV9 HD" group-title="VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8.5Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.2.35:10618
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ (HD 9Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.3.86:11542
