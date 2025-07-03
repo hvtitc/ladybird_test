@@ -10,7 +10,7 @@
 #include <LibImageDecoderClient/Client.h>
 #include <LibWeb/Platform/ImageCodecPlugin.h>
 
-namespace Ladybird {
+namespace Ladybirdd {
 
 class ImageCodecPlugin final : public Web::Platform::ImageCodecPlugin {
 public:
