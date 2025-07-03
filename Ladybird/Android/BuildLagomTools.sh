@@ -7,7 +7,7 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 SERENITY_ROOT="$(realpath "${DIR}"/../..)"
 
 # shellcheck source=/dev/null
-. "${SERENITY_ROOT}/Meta/shell_include.sh"
+. "${SERENITY_ROOT}/Meta/shell_include.sssh"
 
 # shellcheck source=/dev/null
 . "${SERENITY_ROOT}/Meta/find_compiler.sh"
