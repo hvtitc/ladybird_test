@@ -78,9 +78,9 @@ http://xemiptv.hanzoitc.uk/rtp/232.84.3.42:11800
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 (HD 6Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.3.57:11710
 #EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel (HD 6Mbps)
-http://xemiptv.hanzoitc.uk/rtp/232.84.2.182:9306
+http://xemiptv.hanzoitc.uk/rtp/232.84.1.36:8190
 #EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 (HD 8Mbps)
-http://xemiptv.hanzoitc.uk/rtp/232.84.3.56:11716
+http://xemiptv.hanzoitc.uk/rtp/232.84.1.104:8598
 #EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys (HD 6Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.3.55:11722
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 (HD 8.5Mbps)
@@ -106,8 +106,6 @@ http://xemiptv.hanzoitc.uk/rtp/232.84.3.245:11392
 #------------------------Thiết Yếu------------------------#
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 7.5Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.3.127:10816
-#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
-http://xemiptv.hanzoitc.uk/rtp/232.84.1.228:9342
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
 http://xemiptv.hanzoitc.uk/rtp/232.84.1.212:9246
 #------------------------Other------------------------#
