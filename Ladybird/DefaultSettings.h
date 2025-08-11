@@ -252,8 +252,6 @@ http://xemiptv.hanzoitc.uk/rtp/232.84.3.157:10696
 http://xemiptv.hanzoitc.uk/rtp/232.84.1.77:8436
 #EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 10Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.3.62:11680
-#EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 8.5Mbps)
-http://xemiptv.hanzoitc.uk/rtp/232.84.3.103:10840
 #EXTINF:0 tvg-id="cinemaworldhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World (HD 9Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.3.64:11668
 #EXTINF:0 tvg-id="cinemaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax (HD 8.5Mbps)
