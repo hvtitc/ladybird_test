@@ -25,8 +25,6 @@ http://xemiptv.hanzoitc.uk/rtp/232.84.3.66:11656
 #------------------------Thiết Yếu------------------------#
 #EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN (HD 7.5Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.3.127:10816
-#EXTINF:0 tvg-id="qpvnhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
-http://xemiptv.hanzoitc.uk/rtp/232.84.1.228:9342
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV
 http://xemiptv.hanzoitc.uk/rtp/232.84.1.212:9246
 #------------------------VTVcab------------------------#
