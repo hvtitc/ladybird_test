@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #------------------------VTV------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8.5Mbps)
-http://192.168.10.44:35051/rtp/232.84.1.117:10254
+http://xemiptv.hanzoitc.uk/rtp/232.84.1.117:10254
 #EXTINF:0 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 8.5Mbps)
-http://192.168.10.44:35051/rtp/232.84.2.31:10594
+http://xemiptv.hanzoitc.uk/rtp/232.84.2.31:10594
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 8.5Mbps)
-http://192.168.10.44:35051/rtp/232.84.1.118:10260
+http://xemiptv.hanzoitc.uk/rtp/232.84.1.118:10260
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 8.5Mbps)
-http://192.168.10.44:35051/rtp/232.84.3.106:10600
+http://xemiptv.hanzoitc.uk/rtp/232.84.3.106:10600
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8.5Mbps)
 http://xemiptv.hanzoitc.uk/rtp/232.84.2.33:10606
 #EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8.5Mbps)
