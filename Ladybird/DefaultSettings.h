@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml"
+#EXTM3U url-tvg="https://vnepg.site/epg.xml"
 #------------------------VTV------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.207:5000
@@ -8,18 +8,20 @@ http://xemiptv.hanzoitc.uk/rtp/239.12.251.226:5000
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.206:5000
 #EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.227:5000
+#EXTINF:0 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV_VietnamToday.png",Vietnam Today HD
+http://xemiptv.hanzoitc.uk/rtp/239.12.252.95:5000
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.209:5000
-#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ HD
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.21:5000
-#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 HD
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.22:5000
-#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 HD
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.50:5000
 #EXTINF:0 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.105:5000
 #EXTINF:0 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.106:5000
+#EXTINF:0 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 HD
+http://xemiptv.hanzoitc.uk/rtp/239.12.252.22:5000
+#EXTINF:0 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 HD
+http://xemiptv.hanzoitc.uk/rtp/239.12.252.50:5000
+#EXTINF:0 tvg-id="vtvcantho" group-title="VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ HD
+http://xemiptv.hanzoitc.uk/rtp/239.12.252.21:5000
 #------------------------Thiết Yếu------------------------#
 #EXTINF:0 tvg-id="antvhd" group-title="Kênh TH Thiết yếu" tvg-logo="https://i.imgur.com/eGkFbAh.png",ANTV HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.104:5000
@@ -46,11 +48,13 @@ http://xemiptv.hanzoitc.uk/rtp/239.12.252.49:5000
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.38:5000
 #------------------------HTV------------------------#
 #EXTINF:0 tvg-id="htv1" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/oLm4dbV.png",HTV1 HD
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.20:5000
+http://xemiptv.hanzoitc.uk/rtp/239.12.251.11:5000
 #EXTINF:0 tvg-id="htv2hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/f3KlwDX.png",HTV2 Vie Channel HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.75:5000
 #EXTINF:0 tvg-id="htv3" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3 HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.13:5000
+#EXTINF:0 tvg-id="htvkey" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wrH7U0X.png",HTV Keys HD
+http://xemiptv.hanzoitc.uk/rtp/239.12.251.18:5000
 #EXTINF:0 tvg-id="htv7hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.13:5000
 #EXTINF:0 tvg-id="htv9hd" group-title="HTV/HTVC" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD
@@ -73,159 +77,155 @@ http://xemiptv.hanzoitc.uk/rtp/239.12.252.34:5000
 #EXTINF:0 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://i.imgur.com/pSIvTkZ.png",SCTV6 HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.71:5000
 #------------------------Other------------------------#
-#EXTINF:0 tvg-id="" group-title="Other" tvg-logo="https://i.imgur.com/78fQx65.png",HiTV HD
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.11:5000
-#EXTINF:0 tvg-id="" group-title="Other" tvg-logo="https://i.imgur.com/DlZYnPf.png",YouTV HD
+#EXTINF:0 tvg-id="youtv" group-title="Other" tvg-logo="https://i.imgur.com/DlZYnPf.png",YouTV
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.94:5000
 #------------------------Địa phương (HD)------------------------#
-#EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC HD | Báo và PTTH Lào Cai
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.109:5000
-#EXTINF:0 tvg-id="dienbien" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV HD | Báo và PTTH Điện Biên
+#EXTINF:0 tvg-id="dienbien" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV HD | Điện Biên
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.119:5000
-#EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD | Báo và PTTH Phú Thọ
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.98:5000
-#EXTINF:0 tvg-id="laichau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD | Báo và PTTH Lai Châu
+#EXTINF:0 tvg-id="laichau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/we3GCjr.png",LTV HD | Lai Châu
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.99:5000
-#EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV HD | Báo và Đài PTTH Tuyên Quang
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.120:5000
-#EXTINF:0 tvg-id="caobang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD | Báo Cao Bằng
+#EXTINF:0 tvg-id="laocai" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC HD | Lào Cai
+http://xemiptv.hanzoitc.uk/rtp/239.12.252.109:5000
+#EXTINF:0 tvg-id="sonla" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV HD | Sơn La
+http://xemiptv.hanzoitc.uk/rtp/239.12.251.20:5000
+#EXTINF:0 tvg-id="tuyenquang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6RPgRE7.png",TTV HD | Tuyên Quang
+http://xemiptv.hanzoitc.uk/rtp/239.12.252.45:5000
+#EXTINF:0 tvg-id="caobang" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YCrYT2p.png",CRTV HD | Cao Bằng
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.87:5000
-#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_ThaiNguyen.png",TN HD | Báo và PTTH Thái Nguyên
-http://xemiptv.hanzoitc.uk/rtp/239.12.251.10:5000
-#EXTINF:0 tvg-id="langson" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD | Báo và Đài PTTH Lạng Sơn
+#EXTINF:0 tvg-id="thainguyen" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_ThaiNguyen.png",TN HD | Thái Nguyên
+http://xemiptv.hanzoitc.uk/rtp/239.12.252.105:5000
+#EXTINF:0 tvg-id="langson" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/6FCXyrr.png",LSTV HD | Lạng Sơn
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.39:5000
-#EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BTV_BacNinh.png",BTV HD | Báo và PTTH Bắc Ninh
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.83:5000
-#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD | Báo và PTTH Quảng Ninh
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.66:5000
-#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD | Báo và PTTH Quảng Ninh
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.71:5000
-#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD | Báo và PTTH Ninh Bình
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.102:5000
-#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD | Đài Hà Nội
+#EXTINF:0 tvg-id="phutho" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5OZ2hAB.png",PTV HD | Phú Thọ
+http://xemiptv.hanzoitc.uk/rtp/239.12.251.46:5000
+#EXTINF:0 tvg-id="hanoi1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/mwCTDMj.png",H1 HD | Hà Nội
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.223:5000
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD | Đài Hà Nội
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/HyiwlZV.png",H2 HD | Hà Nội
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.14:5000
-#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png",H2 UHD | Đài Hà Nội
+#EXTINF:0 tvg-id="hanoi2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/H2_HanoiTV_UHD.png",H2 UHD | Hà Nội
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.8:5000
-#EXTINF:0 tvg-id="haiphong" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD | Báo và PTTH Hải Phòng
+#EXTINF:0 tvg-id="bacninh" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BTV_BacNinh.png",BTV HD | Bắc Ninh
+http://xemiptv.hanzoitc.uk/rtp/239.12.251.12:5000
+#EXTINF:0 tvg-id="quangninh1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/sGcRJVP.png",QTV1 HD | Quảng Ninh
+http://xemiptv.hanzoitc.uk/rtp/239.12.252.71:5000
+#EXTINF:0 tvg-id="quangninh3" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/4hadYbw.png",QTV3 HD | Quảng Ninh
+http://xemiptv.hanzoitc.uk/rtp/239.12.252.66:5000
+#EXTINF:0 tvg-id="haiphong" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/StFk4PA.png",THP HD | Hải Phòng
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.66:5000
-#EXTINF:0 tvg-id="haiphongplus" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD | Báo và PTTH Hải Phòng
+#EXTINF:0 tvg-id="haiphongplus" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/s3yq8AW.png",THP+ HD | Hải Phòng
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.76:5000
-#EXTINF:0 tvg-id="haiduong" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THP3_HaiPhong.png",THP3 HD | Báo và PTTH Hải Phòng
+#EXTINF:0 tvg-id="haiphong3" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THP3_HaiPhong.png",THP3 HD | Hải Phòng
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.31:5000
-#EXTINF:0 tvg-id="hungyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY HD | Báo và PTTH Hưng Yên
+#EXTINF:0 tvg-id="hungyen" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/deNnP9h.png",HY HD | Hưng Yên
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.35:5000
-#EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV HD | Báo và Đài PTTH Thanh Hóa
+#EXTINF:0 tvg-id="ninhbinh" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/XuYnZWe.png",NBTV HD | Ninh Bình
+http://xemiptv.hanzoitc.uk/rtp/239.12.252.102:5000
+#EXTINF:0 tvg-id="thanhhoa" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/NlOwltd.png",TTV HD | Thanh Hóa
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.107:5000
-#EXTINF:0 tvg-id="nghean" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD | Báo và Đài PTTH Nghệ An
+#EXTINF:0 tvg-id="nghean" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/5HEfwZz.png",NTV HD | Nghệ An
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.94:5000
-#EXTINF:0 tvg-id="hatinh" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BHTTV_BaoHaTinhTV.png",BHTTV HD | TH Báo Hà Tĩnh
+#EXTINF:0 tvg-id="hatinh" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/BHTTV_BaoHaTinhTV.png",BHTTV HD | TH Hà Tĩnh
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.88:5000
-#EXTINF:0 tvg-id="quangtri" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QTTV_QuangTri.png",QTTV HD | Báo và PTTH Quảng Trị
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.106:5000
-#EXTINF:0 tvg-id="hue" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV HD | Báo và PTTH Huế
+#EXTINF:0 tvg-id="quangtri" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QTTV_QuangTri.png",QTTV HD | Quảng Trị
+http://xemiptv.hanzoitc.uk/rtp/239.12.251.70:5000
+#EXTINF:0 tvg-id="hue" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV HD | Huế
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.5:5000
-#EXTINF:0 tvg-id="danang1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",ĐNRT1 HD | Báo và PTTH Đà Nẵng
+#EXTINF:0 tvg-id="danang1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",ĐNRT1 HD | Đà Nẵng
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.93:5000
-#EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",ĐNRT2 HD | Báo và PTTH Đà Nẵng
+#EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",ĐNRT2 HD | Đà Nẵng
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.111:5000
-#EXTINF:0 tvg-id="quangngai" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV_QuangNgai.png",QNgTV HD | Báo và PTTH Quảng Ngãi
+#EXTINF:0 tvg-id="quangngai" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/QNgTV_QuangNgai.png",QNgTV HD | Quảng Ngãi
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.100:5000
-#EXTINF:0 tvg-id="gialai" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/GTV_GiaLai.png",GTV HD | Báo và PTTH Gia Lai
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.62:5000
-#EXTINF:0 tvg-id="daklak" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD | Báo và PTTH Đắk Lắk
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.84:5000
-#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD | Báo và PTTH Khánh Hòa
+#EXTINF:0 tvg-id="gialai" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/GTV_GiaLai.png",GTV HD | Gia Lai
+http://xemiptv.hanzoitc.uk/rtp/239.12.252.35:5000
+#EXTINF:0 tvg-id="daklak" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/H2LOZ2A.png",DRT HD | Đắk Lắk
+http://xemiptv.hanzoitc.uk/rtp/239.12.252.56:5000
+#EXTINF:0 tvg-id="khanhhoa" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/kPu3rSN.png",KTV HD | Khánh Hòa
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.2:5000
-#EXTINF:0 tvg-id="ninhthuan" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/KTV1_KhanhHoa.png",KTV1 HD | Báo và PTTH Khánh Hòa
+#EXTINF:0 tvg-id="khanhhoa1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/KTV1_KhanhHoa.png",KTV1 HD | Khánh Hòa
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.45:5000
-#EXTINF:0 tvg-id="lamdong1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV1_LamDong.png",LTV1 HD | Báo và PTTH Lâm Đồng
+#EXTINF:0 tvg-id="lamdong1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV1_LamDong.png",LTV1 HD | Lâm Đồng
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.110:5000
-#EXTINF:0 tvg-id="lamdong2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",LTV2 HD | Báo và PTTH Lâm Đồng
+#EXTINF:0 tvg-id="lamdong2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",LTV2 HD | Lâm Đồng
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.122:5000
-#EXTINF:0 tvg-id="lamdong3" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV3_LamDong.png",LTV3 HD | Báo và PTTH Lâm Đồng
+#EXTINF:0 tvg-id="lamdong3" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV3_LamDong.png",LTV3 HD | Lâm Đồng
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.118:5000
-#EXTINF:0 tvg-id="binhduong1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD | Đài PTTH Bình Dương
-http://xemiptv.hanzoitc.uk/rtp/239.12.251.15:5000
-#EXTINF:0 tvg-id="anvienhd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel HD
-http://xemiptv.hanzoitc.uk/rtp/239.12.251.61:5000
-#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | Báo và PTTH Đồng Nai
-http://xemiptv.hanzoitc.uk/rtp/239.12.251.17:5000
-#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNNRTV2 HD | Báo và PTTH Đồng Nai
+#EXTINF:0 tvg-id="dongnai1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV1_DongNai.png",ĐNNRTV1 HD | Đồng Nai
+http://xemiptv.hanzoitc.uk/rtp/239.12.252.96:5000
+#EXTINF:0 tvg-id="dongnai2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNNRTV2_DongNai.png",ĐNNRTV2 HD | Đồng Nai
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.75:5000
-#EXTINF:0 tvg-id="longan" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV1_TayNinh.png",TTV1 HD | Báo và PTTH Tây Ninh
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.86:5000
-#EXTINF:0 tvg-id="tayninh" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV2_TayNinh.png",TTV2 HD | Báo và PTTH Tây Ninh
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.69:5000
-#EXTINF:0 tvg-id="vungtau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD | Đài PTTH Bà Rịa Vũng Tàu
+#EXTINF:0 tvg-id="binhduong1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/YPQCtHY.png",BTV1 HD | TP.HCM
+http://xemiptv.hanzoitc.uk/rtp/239.12.251.15:5000
+#EXTINF:0 tvg-id="anvienhd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel HD
+http://xemiptv.hanzoitc.uk/rtp/239.12.251.61:5000
+#EXTINF:0 tvg-id="vungtau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/KX2RMXR.png",BRT HD | TP.HCM
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.92:5000
-#EXTINF:0 tvg-id="dongthap" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 HD | Báo và PTTH Đồng Tháp
+#EXTINF:0 tvg-id="tayninh1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV1_TayNinh.png",TTV1 HD | Tây Ninh
+http://xemiptv.hanzoitc.uk/rtp/239.12.252.86:5000
+#EXTINF:0 tvg-id="tayninh2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TTV2_TayNinh.png",TTV2 HD | Tây Ninh
+http://xemiptv.hanzoitc.uk/rtp/239.12.252.69:5000
+#EXTINF:0 tvg-id="dongthap1" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 HD | Đồng Tháp
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.97:5000
-#EXTINF:0 tvg-id="" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây HD | Báo và PTTH Đồng Tháp
+#EXTINF:0 tvg-id="dongthap2" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/WXebESa.png",THĐT2 Miền Tây HD | Đồng Tháp
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.91:5000
-#EXTINF:0 tvg-id="kiengiang" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV1_AnGiang.png",ATV1 HD | Báo và PTTH An Giang
-http://xemiptv.hanzoitc.uk/rtp/239.12.251.7:5000
-#EXTINF:0 tvg-id="angiang" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV2_AnGiang.png",ATV2 HD | Báo và PTTH An Giang
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.68:5000
-#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD | Báo và Đài PTTH Vĩnh Long
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD | Vĩnh Long
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.99:5000
-#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD | Báo và Đài PTTH Vĩnh Long
-http://xemiptv.hanzoitc.uk/rtp/239.12.252.85:5000
-#EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 HD | Báo và Đài PTTH Vĩnh Long
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD | Vĩnh Long
+http://xemiptv.hanzoitc.uk/rtp/239.12.251.100:5000
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD | Vĩnh Long
+http://xemiptv.hanzoitc.uk/rtp/239.12.252.29:5000
+#EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 HD | Vĩnh Long
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.70:5000
-#EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD | Báo và Đài PTTH Cà Mau
+#EXTINF:0 tvg-id="angiang1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV1_AnGiang.png",ATV1 HD | An Giang
+http://xemiptv.hanzoitc.uk/rtp/239.12.252.68:5000
+#EXTINF:0 tvg-id="angiang2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV2_AnGiang.png",ATV2 HD | An Giang
+http://xemiptv.hanzoitc.uk/rtp/239.12.251.7:5000
+#EXTINF:0 tvg-id="camau" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/cYqXh3i.png",CTV HD | Cà Mau
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.19:5000
-#EXTINF:0 tvg-id="cantho1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho2.png",THTPCT1 HD | Đài PTTH Thành phố Cần Thơ
+#EXTINF:0 tvg-id="cantho1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho1.png",Cần Thơ 1 HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.67:5000
-#EXTINF:0 tvg-id="cantho2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho2.png",THTPCT2 HD | Đài PTTH Thành phố Cần Thơ
+#EXTINF:0 tvg-id="cantho2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho2.png",Cần Thơ 2 HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.121:5000
-#EXTINF:0 tvg-id="cantho3" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho3.png",THTPCT3 HD | Đài PTTH Thành phố Cần Thơ
+#EXTINF:0 tvg-id="cantho3" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CanTho3.png",Cần Thơ 3 HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.90:5000
 #------------------------Địa phương (SD)------------------------#
-#EXTINF:0 tvg-id="hoabinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV _ TH Báo Hòa Bình
+#EXTINF:0 tvg-id="hoabinh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/cgKnwnX.png",HBTV _ TH Hòa Bình
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.34:5000
-#EXTINF:0 tvg-id="sonla" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/QZT6GIh.png",STV _ TH Sơn La
-http://xemiptv.hanzoitc.uk/rtp/239.12.251.55:5000
-#EXTINF:0 tvg-id="namdinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/qW62XEm.png",NTV _ TH Báo Nam Định
-http://xemiptv.hanzoitc.uk/rtp/239.12.251.42:5000
-#EXTINF:0 tvg-id="quangbinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/8yOdFDx.png",QBTV _ TH Quảng Bình
-http://xemiptv.hanzoitc.uk/rtp/239.12.251.48:5000
-#EXTINF:0 tvg-id="quangnam" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT _ TH Quảng Nam
+#EXTINF:0 tvg-id="quangnam" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/uWHWxZB.png",QRT _ TH Quảng Nam
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.49:5000
-#EXTINF:0 tvg-id="binhdinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Bình Định
+#EXTINF:0 tvg-id="binhdinh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/APCkufv.png",BTV _ TH Bình Định
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.14:5000
-#EXTINF:0 tvg-id="phuyen" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP _ TH Phú Yên
+#EXTINF:0 tvg-id="phuyen" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP _ TH Phú Yên
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.47:5000
-#EXTINF:0 tvg-id="binhthuan" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Bu1xsiJ.png",BTV HD _ TH Bình Thuận
-http://xemiptv.hanzoitc.uk/rtp/239.12.251.18:5000
-#EXTINF:0 tvg-id="kontum" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/C4yYbbi.png",KRT _ TH Kon Tum
-http://xemiptv.hanzoitc.uk/rtp/239.12.251.37:5000
-#EXTINF:0 tvg-id="lamdong" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV _ TH Lâm Đồng
+#EXTINF:0 tvg-id="lamdong" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/Tv0fNk3.png",LTV _ TH Lâm Đồng
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.3:5000
-#EXTINF:0 tvg-id="tayninh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh
+#EXTINF:0 tvg-id="tayninh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/0DU4cyg.png",TTV11 _ TH Tây Ninh
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.56:5000
-#EXTINF:0 tvg-id="tiengiang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG _ TH Tiền Giang
+#EXTINF:0 tvg-id="longan" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/jBWD3It.png",LA34 _ TH Long An
+http://xemiptv.hanzoitc.uk/rtp/239.12.251.41:5000
+#EXTINF:0 tvg-id="tiengiang" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/NkHFZ0D.png",THTG _ TH Tiền Giang
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.59:5000
-#EXTINF:0 tvg-id="travinh" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV _ TH Trà Vinh
+#EXTINF:0 tvg-id="travinh" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/dHOm6Ll.png",THTV _ TH Trà Vinh
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.60:5000
-#EXTINF:0 tvg-id="haugiang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV _ TH Hậu Giang
+#EXTINF:0 tvg-id="haugiang" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/a3joZFM.png",HGTV _ TH Hậu Giang
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.33:5000
-#EXTINF:0 tvg-id="soctrang" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 _ TH Sóc Trăng
+#EXTINF:0 tvg-id="kiengiang" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/jCTogPb.png",KG _ TH Kiên Giang
+http://xemiptv.hanzoitc.uk/rtp/239.12.251.36:5000
+#EXTINF:0 tvg-id="soctrang" group-title="Địa phương (SD)" tvg-logo="https://i.imgur.com/5KQJoBg.png",STV1 _ TH Sóc Trăng
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.54:5000
-#EXTINF:0 tvg-id="baclieu" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/FoAzh3R.png",BLTV HD _ TH Bạc Liêu
-http://xemiptv.hanzoitc.uk/rtp/239.12.251.11:5000
-#EXTINF:0 tvg-id="cantho" group-title="Địa Phương (SD)" tvg-logo="https://i.imgur.com/NyrxzES.png",THTPCT HD _ TH TP. Cần Thơ
-http://xemiptv.hanzoitc.uk/rtp/239.12.251.20:5000
 #------------------------Quốc Tế------------------------#
 #EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.78:5000
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA HD
+#EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network HD
+http://xemiptv.hanzoitc.uk/rtp/239.12.251.164:5000
+#EXTINF:0 tvg-id="cna" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.81:5000
 #EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.162:5000
 #EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.80:5000
+#EXTINF:0 tvg-id="historyhd" group-title="Quốc Tế (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/History.png",History HD
+http://xemiptv.hanzoitc.uk/rtp/239.12.251.178:5000
 #EXTINF:0 tvg-id="kbsworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World HD
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.116:5000
 #EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
@@ -238,7 +238,7 @@ http://xemiptv.hanzoitc.uk/rtp/239.12.252.16:5000
 http://xemiptv.hanzoitc.uk/rtp/239.12.251.232:5000
 #EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan 
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.19:5000
-#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TV5_Monde_Asie.png",TV5 Monde Asie
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.17:5000
-#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (SD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TV5_Monde_Asie.png",TV5 Monde Asie
 http://xemiptv.hanzoitc.uk/rtp/239.12.252.82:5000
