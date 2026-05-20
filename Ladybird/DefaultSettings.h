@@ -190,7 +190,7 @@ http://ybtv.hanzoitc.uk/rtp/232.84.3.165:10900
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 | Vĩnh Long (HD 8Mbps)
 http://ybtv.hanzoitc.uk/rtp/232.84.3.160:10912
 #EXTINF:0 tvg-id="vinhlong5hd" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THVL5_VinhLong.png",THVL5 | Vĩnh Long (HD 8Mbps)
-http://ybtv.hanzoitc.uk/rtp/232.84.3.21:11926
+http://ybtv.hanzoitc.uk/rtp/232.84.2.102:9114
 #EXTINF:0 tvg-id="angiang1" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV1_AnGiang.png",ATV1 | An Giang (HD 7.5Mbps)
 http://ybtv.hanzoitc.uk/rtp/232.84.3.161:10918
 #EXTINF:0 tvg-id="angiang2" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/ATV2_AnGiang.png",ATV2 | An Giang (HD 8Mbps)
