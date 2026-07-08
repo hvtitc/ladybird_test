@@ -113,6 +113,8 @@ http://ybtv.hanzoitc.uk/rtp/232.84.3.137:10744
 http://ybtv.hanzoitc.uk/rtp/232.84.3.142:10780
 #EXTINF:0 tvg-id="haiphong3" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/THP3_HaiPhong.png",THP3 | Hải Phòng (HD 8Mbps)
 http://ybtv.hanzoitc.uk/rtp/232.84.3.83:11554
+#EXTINF:0 tvg-id="hue" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/q5MBibm.png",HUETV | Huế (HD 8Mbps)
+http://ybtv.hanzoitc.uk/rtp/232.84.3.34:11848
 #EXTINF:0 tvg-id="danang1" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT1_DaNang.png",ĐNRT1 | Đà Nẵng (HD 5Mbps)
 http://ybtv.hanzoitc.uk/rtp/232.84.3.29:11878
 #EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",ĐNRT2 | Đà Nẵng (HD 5Mbps)
@@ -177,7 +179,7 @@ http://ybtv.hanzoitc.uk/rtp/232.84.3.25:11902
 http://ybtv.hanzoitc.uk/rtp/232.84.3.58:11704
 #EXTINF:0 tvg-id="lamdong2" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/LTV2_LamDong.png",LTV2 | Lâm Đồng (HD 8Mbps)
 http://ybtv.hanzoitc.uk/rtp/232.84.3.87:11530
-#EXTINF:0 tvg-id="tayninh" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_TayNinh.png",TN | Tây Ninh (HD 8Mbps)
+#EXTINF:0 tvg-id="tayninh1" group-title="Địa Phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/TN_TayNinh.png",TN | Tây Ninh (HD 8Mbps)
 http://ybtv.hanzoitc.uk/rtp/232.84.2.3:10314
 #EXTINF:0 tvg-id="dongthap1" group-title="Địa Phương (HD)" tvg-logo="https://i.imgur.com/UfOw13y.png",THĐT1 | Đồng Tháp (HD 7Mbps)
 http://ybtv.hanzoitc.uk/rtp/232.84.3.235:11332
