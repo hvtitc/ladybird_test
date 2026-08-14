@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml"
+#EXTM3U url-tvg="https://lichphatsong.io.vn/epg.xml"
 #------------------------VTV------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8.5Mbps)
 http://ybtv.hanzoitc.uk/rtp/232.84.1.117:10254
