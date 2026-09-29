@@ -1,4 +1,13 @@
 #EXTM3U url-tvg="https://epg.io.vn/epgc.xml"
+#------------------------MyTV------------------------#
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 801
+http://ybtv.hanzoitc.uk/rtp/232.84.2.175:10858
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 802
+http://ybtv.hanzoitc.uk/rtp/232.84.2.176:10864
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 803
+http://ybtv.hanzoitc.uk/rtp/232.84.2.195:10954
+#EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 804
+http://ybtv.hanzoitc.uk/rtp/232.84.2.196:10960
 #------------------------VTV------------------------#
 #EXTINF:0 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/VTV1.png",VTV1 (HD 8.5Mbps)
 http://ybtv.hanzoitc.uk/rtp/232.84.1.117:10254
